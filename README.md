@@ -1,2 +1,5 @@
-Here i will be working on cryptographic codes those which are interesting for me
+Here i will be working on cryptographic codes those which are interesting for me for example this cesar encrypting method. One of the earliest known approaches to symmetric key cryptography was applied by Julius Caesar (100 BC to 44 BC) and is now called the Caesar cipher. In a Caesar cipher we cyclically shift the alphabet by n letters, where n is a natural number. For encryption we shift n characters backwards and wrap around to  z after -.
+To undo this we shift n characters forward and wrap around to - after z.
+Caesar did not encrypt the character space and most other authors also follow that convention. Our representation of Caesar ciphers differs from that convention Instead of just shifting the letters of the alphabet, we will shift our set of characters that contains the 26 letters as well as the character space which we represent by -.
+
 <img width="555" height="402" alt="Screenshot 2025-12-17 at 19 49 28" src="https://github.com/user-attachments/assets/32951a5d-3750-4f03-9071-b6e034e995e8" />
